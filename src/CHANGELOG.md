@@ -1,5 +1,13 @@
 # viem
 
+## 2.19.7
+
+### Patch Changes
+
+- [#2624](https://github.com/wevm/viem/pull/2624) [`46dd2523`](https://github.com/wevm/viem/commit/46dd2523a96d8372b0d0cb5ffe56c613bf073048) Thanks [@holic](https://github.com/holic)! - Improved `writeContract` error handling.
+
+- [#2625](https://github.com/wevm/viem/pull/2625) [`507eed72`](https://github.com/wevm/viem/commit/507eed7284c2ac6867fef850a0e2923b9078671e) Thanks [@qiwu7](https://github.com/qiwu7)! - Added B3 chain
+
 ## 2.19.6
 
 ### Patch Changes
